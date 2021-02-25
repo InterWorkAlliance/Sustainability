@@ -20,7 +20,9 @@ Below are a list of high level business requirements for the major aspects of ca
 
 ### Roles
 
-A list of [Roles](roles.md) that participants in a voluntary ecological market can play.
+A list of roles that participants in a voluntary ecological market can play.
+
+- [Market Roles](roles.md)
 
 ### Emissions and Reporting
 
@@ -28,7 +30,7 @@ Most organizations participating in the voluntary market are setting goals and r
 
 Initially, the VEM will not attempt to define a level of detailed carbon accounting, but rather gather a coarse recording of Scope 1, 2 and 3 emission goals, actual and netting of owned credits to offset resulting in effective emissions to track progress for participants in the voluntary market.
 
-[Emissions](emissions/readme.md)
+- [Emissions and Reporting](emissions/readme.md)
 
 ### Verified Supply - Credits
 
@@ -40,7 +42,7 @@ Here standard representations of value for either a ecological product or the so
 - Record and link removal project and tokens to the removal technique and accounting methodology to enable quality grading of offsets based on aspects like geography, sequestration type, scientific measurement, etc.
 - Prevent the double crediting or spending of credits by removal projects or emissions reporters.
 
-[Verified Supply -Credits](credits/readme.md)
+- [Verified Supply - Credits](credits/readme.md)
 
 ### Market Contracts and Infrastructure
 
@@ -49,13 +51,13 @@ Participants in the voluntary market will want to list, trade, offset, etc. thes
 - Establish standardize contracts for applying or spending credits by emissions reporters retiring them so they cannot be applied again or resold once consumed.
 - Establish standard reference contracts, spot, forward and futures for either OTC or exchange based trades.
 
-[Market Contracts](contracts/readme.md)
+- [Market Contracts](contracts/readme.md)
 
 ### Market Analytics
 
 Once a market is established, it is helpful to have standard ways of making sense of the larger ecosystem by identifying key attributes to be available for building custom searches or to build knowledge bases.
 
-[Market Analytics](analytics/readme.md)
+- [Market Analytics](analytics/readme.md)
 
 ## Exploring Focus Categories
 
