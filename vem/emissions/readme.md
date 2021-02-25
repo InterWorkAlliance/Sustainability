@@ -8,10 +8,14 @@ It is possible to tokenize emissions, however, the taskforce has not delved into
 
 Participating organizations in the voluntary market should record their emissions goals and report their audited results alongside in order to get an accurate gage of demand for offsets. Currently, the pledge an organization makes in most jurisdictions are largely marketing exercises in the spirit of Environmental, Social, and Governance (ESG) criteria for social conscious investors.
 
-An organization car record their ESG pledge, using a regular reporting cadence, for achieving a targeted ESG goal of carbon neutrality or negative and then report their actual emissions in the same location, this would provide a baseline for needed supply of offsets to achieve this ESG goal.
+An organization can record their ESG pledge, using a regular reporting cadence, for achieving a targeted ESG goal of carbon neutrality or negative and then report their actual emissions in the same location, this would provide a baseline for needed supply of offsets to achieve this ESG goal.
 
 Further, if this reporting organization were to purchase offsets from the marketplace and apply/spend/consume them to lower their reported emissions to an effective rate that met their cadence goal, this would remove the applied offsets from the supply and complete the lifecycle of the offset.
 
 An organization is a participant in the voluntary market and establishes the contract with themselves and an auditing participant for each reporting cycle (cadence).
 
-[ESG Scorecard](ESG-Scorecard.md)
+[ESG Scorecard](emissions/ESG-Scorecard.md) is how participants can:
+
+- Establishment of a voluntary reporting network where participants can register their ESG goals, report their actual emissions as well as apply offsets to achieve an effective emissions report demonstrating progress towards their goals.
+- Enable track and track for GGP Scope 1 & 2 emissions used in the calculation of Scope 3 emissions.
+- Standardize on a token or digital asset representation for emissions.

@@ -18,15 +18,21 @@ In the VEM, we will be collecting the requirements from the subject matter exper
 
 Below are a list of high level business requirements for the major aspects of carbon markets.
 
-### Emissions
+### Roles
 
-- Establishment of a voluntary reporting network where participants can register their ESG goals, report their actual emissions as well as apply offsets to achieve an effective emissions report demonstrating progress towards their goals.
-- Enable track and track for GGP Scope 1 & 2 emissions used in the calculation of Scope 3 emissions.
-- Standardize on a token or digital asset representation for emissions.
+A list of [Roles](roles.md) that participants in a voluntary ecological market can play.
+
+### Emissions and Reporting
+
+Most organizations participating in the voluntary market are setting goals and reporting their carbon emissions.
 
 Initially, the VEM will not attempt to define a level of detailed carbon accounting, but rather gather a coarse recording of Scope 1, 2 and 3 emission goals, actual and netting of owned credits to offset resulting in effective emissions to track progress for participants in the voluntary market.
 
-### Credits
+[Emissions](emissions/readme.md)
+
+### Verified Supply - Credits
+
+Here standard representations of value for either a ecological product or the source of these products are defined:
 
 - Establish a standard token or digital asset representation for GHG/Carbon Credits, linked to the removal project and verifying organization.
 - Collaborate with other initiatives like the [TSVCM](https://www.iif.com/tsvcm) to align terminology and recommendations with token and contract definitions produced using the IWA tools.
@@ -34,22 +40,36 @@ Initially, the VEM will not attempt to define a level of detailed carbon account
 - Record and link removal project and tokens to the removal technique and accounting methodology to enable quality grading of offsets based on aspects like geography, sequestration type, scientific measurement, etc.
 - Prevent the double crediting or spending of credits by removal projects or emissions reporters.
 
-### Market Infrastructure
+[Verified Supply -Credits](credits/readme.md)
+
+### Market Contracts and Infrastructure
+
+Participants in the voluntary market will want to list, trade, offset, etc. these ecological projects and have a common understanding of the rules that the market will set.
 
 - Establish standardize contracts for applying or spending credits by emissions reporters retiring them so they cannot be applied again or resold once consumed.
 - Establish standard reference contracts, spot, forward and futures for either OTC or exchange based trades.
 
-## Focus Categories
+[Market Contracts](contracts/readme.md)
+
+### Market Analytics
+
+Once a market is established, it is helpful to have standard ways of making sense of the larger ecosystem by identifying key attributes to be available for building custom searches or to build knowledge bases.
+
+[Market Analytics](analytics/readme.md)
+
+## Exploring Focus Categories
 
 The VEM breaks out work into categories where subject matter experts can focus and contribute to the background, terms and definitions and specification development.
 
-[Emissions](emissions) - where [Greenhouse Gas Protocol](https://ghgprotocol.org) accounting results are tokenized with the appropriate behaviors, property sets and contract relationships are established. This includes key data attributes that could unlock analytical scenarios possible in the future. Initially, emissions will focus on higher level emissions and goal setting aligning with intiatives like the [SBTi](https://sciencebasedtargets.org).
+[Emissions](emissions) - where [Greenhouse Gas Protocol](https://ghgprotocol.org) accounting results are tokenized with the appropriate behaviors, property sets and contract relationships are established. This includes key data attributes that could unlock analytical scenarios possible in the future. Initially, emissions will focus on higher level emissions and goal setting aligning with initiatives like the [SBTi](https://sciencebasedtargets.org).
 
 [Credits](credits) - where accounting results for GHG/Carbon reduction projects and emission allowances are tokenized with the appropriate behaviors, property sets and contract relationships are established. This includes key data attributes that could unlock analytical scenarios possible in the future.
 
 [Contracts](contracts) - where contract and workflows for parties working with both emissions and credit tokens are established.
 
 [Roles](roles.md) - where voluntary market participant roles are defined and described.
+
+[Analytics](analytics/readme.md)
 
 ## Standards
 
