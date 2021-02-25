@@ -2,7 +2,11 @@
 
 The SBW initially focuses on organizational voluntary emissions goals, reporting and applied offsets in order to match effective emissions with targeted goals. Calculating emissions follows the [Greenhouse Gas Protocol](https://ghgprotocol.org) and records emissions quantity, scope and category for the reporting organization.
 
-It is possible to tokenize emissions, however, the taskforce has not delved into this topic deeply to date and has a working draft that is a starting point with the [CET](cet.md).
+## Emissions
+
+It is possible to tokenize emissions, however, the taskforce has not delved into this topic deeply to date and has a working draft that is a starting point.
+
+### [Carbon Emission Token](cet.md)
 
 ## Environmental, Social and Governance (ESG) Contract
 
@@ -14,7 +18,7 @@ Further, if this reporting organization were to purchase offsets from the market
 
 An organization is a participant in the voluntary market and establishes the contract with themselves and an auditing participant for each reporting cycle (cadence).
 
-[ESG Scorecard](emissions/ESG-Scorecard.md) is how participants can:
+### [ESG Scorecard](emissions/ESG-Scorecard.md)
 
 - Establishment of a voluntary reporting network where participants can register their ESG goals, report their actual emissions as well as apply offsets to achieve an effective emissions report demonstrating progress towards their goals.
 - Enable track and track for GGP Scope 1 & 2 emissions used in the calculation of Scope 3 emissions.

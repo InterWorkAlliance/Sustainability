@@ -1,6 +1,6 @@
 # Sustainability Analytics
 
-Shared Analytical artifacts like schema, sharing contracts, models, etc. are broken out into either:
+Shared Analytical artifacts like schema, sharing contracts, models, etc.
 
-- [Emissions](emissions) or
+- [Emissions](emissions)
 - [Offsets](offsets)

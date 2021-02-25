@@ -16,11 +16,12 @@ The process or workflow for creating verified supply involves 3 roles:
 
 The roles in the supply process use two basic types of token definitions to record their activities.
 
-- [Ecological Project or Program](ep.md) - the established identity and properties defining the common understanding of an ecological project that will create ecological benefit claims.
-- [Ecological Benefit](ccp.md) - the token that references the verified benefit credit recorded in a registry, that is issued by the registry to the project owner.
+### [Ecological Project or Program](ep.md) - the established identity and properties defining the common understanding of an ecological project that will create ecological benefit claims
+
+### [Ecological Benefit](ccp.md) - the token that references the verified benefit credit recorded in a registry, that is issued by the registry to the project owner
 
 ## Contracts
 
 The relationship between the ecological project, verifier and registry is established in a [Verification Contract](verification.md). The contract establishes the terms and conditions for the submission of ecological benefit claims by the project to the verifier, the standard used and the issuance of tokens after a successful verification process.
 
-- [Verification Contract](verification.md)
+### [Verification Contract](verification.md)
