@@ -18,7 +18,7 @@ Further, if this reporting organization were to purchase offsets from the market
 
 An organization is a participant in the voluntary market and establishes the contract with themselves and an auditing participant for each reporting cycle (cadence).
 
-### [ESG Scorecard](emissions/ESG-Scorecard.md)
+### [ESG Scorecard](ESG-Scorecard.md)
 
 - Establishment of a voluntary reporting network where participants can register their ESG goals, report their actual emissions as well as apply offsets to achieve an effective emissions report demonstrating progress towards their goals.
 - Enable track and track for GGP Scope 1 & 2 emissions used in the calculation of Scope 3 emissions.
