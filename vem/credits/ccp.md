@@ -48,3 +48,10 @@ Core Carbon Attributes contain:
 ## Using CCP
 
 CCPs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
+
+## Issues with CCP
+
+Narrowing down the list of attributes to cover the majority of demand signal may run into limits when it comes to value variables like:
+
+- Year scale for Global Warming Potential (GWP) for calculating GHG CO2e:
+  - 100yr GWP vs. 20yr GWP for methane(CH4) that has greater warming potential in the 20yr vs. 100yr GWP.
