@@ -1,4 +1,4 @@
-# Voluntary Reporting and Progress Tracking
+# Voluntary Reporting, Progress Tracking and Demand Signals
 
 The [ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp) Scorecard is for:
 
@@ -33,9 +33,16 @@ The ESG Scorecard contract contains these initial properties and functions:
 
 ![ESGScorecard](../images/ESG-Scorecard.png)
 
+## Demand Signals
+
 To establish a clear demand signal to suppliers, a more detailed forecast for they type of offsetting the buyer will engage in can provide details about removals vs. reductions, then in each offset preference the demand signal can be filtered further via technique - nature vs. technical, storage - biosphere vs. geosphere, geography, etc.
 
 ![ESGDemand](../images/esg-demand.png)
+
+Determining the list of attributes to cover the majority of demand signal preferences may run into limits. It is to be determined whether variables like GWP would be important for buyers, for example:
+
+- Year scale for Global Warming Potential (GWP) for calculating GHG CO2e:
+  - 100yr GWP vs. 20yr GWP for methane(CH4) that has greater warming potential in the 20yr vs. 100yr GWP.
 
 ## Example ESG Scorecard Contract with Future Emissions Goals
 
