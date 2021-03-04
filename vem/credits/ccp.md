@@ -41,7 +41,7 @@ Core Carbon Attributes contain:
 - PA-Compliance:
   - Corresponding Adjustment
 
-**The complete draft of the TTF specification, including its token base and behaviors, for the [Core Carbon Principles token](https://github.com/InterWorkAlliance/TTF/tree/master/artifacts/token-templates/specifications/Core-Carbon-Principles/latest).**
+**The complete draft of the TTF specification, including its token base and behaviors, for the [Core Carbon Principles token](https://github.com/InterWorkAlliance/TokenTaxonomyFramework/tree/main/artifacts/token-templates/specifications/Core-Carbon-Principles/latest).**
 
 ![CCP-TTF](../images/ccp-ttf.png)
 
