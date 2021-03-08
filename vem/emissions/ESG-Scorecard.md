@@ -58,7 +58,7 @@ If their current quarterly emissions report is 10,000 and they have 38 reporting
 @startuml
     actor reportingOrganization #blue
     entity ESGScorecard #green
-    collections reportingPeriods #red
+    collections reportingPeriods #orange
 
     reportingOrganization -> ESGScorecard: createESGScorecard
     reportingOrganization -> ESGScorecard: addReportingPeriods(futureReportingPeriodCollection)
@@ -66,6 +66,8 @@ If their current quarterly emissions report is 10,000 and they have 38 reporting
 
 @enduml
 ```
+
+![Reporting Periods](../images/ESG-flow-1.png)
 
 ## (FUTURE) Reporting and Allocated Transfer of Emissions
 
@@ -86,6 +88,8 @@ When a CET is transferred in the supply chain from Scope 1 (direct generation) t
 
 @enduml
 ```
+
+![Emission Tokens](../images/ESG-flow-2.png)
 
 ## Audit Emissions
 
@@ -113,6 +117,8 @@ The role of the auditor is to ensure that the issued and owned CETs for the repo
 @enduml
 ```
 
+![Audit Emissions](../images/ESG-flow-3.png)
+
 ## Offsetting Emissions to determine effective emissions
 
 Participants can purchase carbon offsets and apply them against their reported period actual emissions in order to achieve their goal for the period. When an offset is applied to reduce actual emissions, the offset is spent and cannot be reused or sold and generates a lower effective emissions balance.
@@ -134,5 +140,7 @@ Core Carbon Principle tokens (CCP) represent credits that can be used to offset 
 
 @enduml
 ```
+
+![Offsetting](../images/ESG-flow-4.png)
 
 Once track and trace capabilities are realized the applied offsets should cascade in the supply chain and be reflected upstream in a reduction of Scope 3 reported emissions.

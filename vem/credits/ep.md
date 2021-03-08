@@ -83,3 +83,5 @@ Here are the high-level, "greenfield", steps for establishing an ecological proj
     projectOwner <- benefitToken:
 @enduml
 ```
+
+![EP Flow](../images/EP-1.png)
