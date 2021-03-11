@@ -45,6 +45,7 @@
 - **Carbon leakage**: Carbon leakage occurs when production of goods is moved to countries with laxer constraints on greenhouse gas emissions than the original country. This could lead to an increase in their total emissions.
 - **Carbon Negative**: An organization is removing more carbon than it emits each year.
 - **Carbon Neutrality**: Purchasing and retiring emission credits or allowances corresponding to the amount of emissions from an activity, company or country. Companies that have typically said they’re “carbon neutral” if they offset their emissions with payments either to avoid a reduction in emissions or remove carbon from the atmosphere. But these are two very different things. For example, one way to avoid a reduction in emissions is to pay someone not to cut down the trees on the land they own. This is a good thing, but in effect it pays someone not to do something that would have a negative impact. It doesn’t lead to planting more trees that would have a positive impact by removing carbon.
+- **Carbon Removal Unit or CRU**: means a unit representing one metric ton of CO2 removed from the atmosphere, net of any life-cycle process emissions, and intended to be permanently stored or otherwise sequestered.
 - **Carbon Sink**: Natural or human-made systems that absorb carbon dioxide from the atmosphere and store them. Forests are the most common form of sink, in addition to soils, peat, permafrost, ocean water and carbonate deposits in the deep ocean.
 - **Certification**: Where an emission reduction project is audited by a government agency or independent authority to determine that it meets established criteria.
 - **CDA**: A type of carbon offset credit for Carbon Dioxide Avoidance.
@@ -78,6 +79,7 @@
 - **DG Climate Action**: One of the Directorate Generals, or departments, of the European Commission and the most relevant to the EU ETS. It acts as regulator for the emission trading system and is responsible for most of the related legislation.
 - **Double Counting**: Where emissions reductions are accounted for in more than one place.
 - **Durability**: The term in years of how long the CO2 will be removed from the atmosphere, compared with the risk of CO2 reversion to the atmosphere before that term elapses.
+- **Durability Period**: The Durability Period will be XX years from the date of creation of the delivered credit.
 
 ## E
 
@@ -193,12 +195,15 @@
 
 ## R
 
+- **Recourse Pool**: means a pool of replacement credits, in a quantity equal to a percentage determined based on reversal risks associated with a source project for carbon removals.
 - **Reduced Emissions from Deforestation and Degradation (REDD+)**: Activities that seeks to reduce greenhouse gas emissions by preserving existing carbon stocks in forests (typically tropical rainforests), peat lands etc. The approach would be additional to project-based efforts such as the CDM.
 - **Regional Greenhouse Gas Initiative (RGGI)**: A regional cap and trade system covering northeastern US states of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New York, Rhode Island and Vermont. The scheme has regulated CO2 emissions from power plants since 2009.
 - **Registration**: Registration is the formal acceptance by the CDM Executive Board of a validated project activity and is required for the verification, certification and issuance of carbon credits for that project activity.
 - **Regional Greenhouse Allowance (RGA)**: Tradable unit under the Regional Greenhouse Gas Initiative, corresponds to 1 short tonne (0.907 metric tons) of CO2.
 - **Removal Unit (RMU)**: RMUs are tradable carbon units issued by Parties to the Kyoto Protocol representing an allowance to emit one tone of GHGs absorbed by a removal or carbon sink activity such as reforestation in an Annex I country.
 - **Retirement**: The permanent removal of an offset credit from circulation as a transactable unit so that it represents a permanent reduction or removal of CO2e from the atmosphere as applied toward an emissions reduction target.
+- **Reversal**: means an escape or release into the atmosphere during the Durability Period of a carbon removal credit.
+- **Reversal Event**: means any event or circumstance occurring after delivery of any removal credits during the Durability Period, whether intentional or unintentional, that results, or that is reasonably likely to result, in a Reversal.
 
 ## S
 

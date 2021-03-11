@@ -6,6 +6,7 @@ The CCP has standard data elements the represent the shared view required by the
 
 Every CCP will have the following:
 
+- Represents either 1 Carbon Removal Unit or CRU, a unit representing one metric ton of CO2 (mtCO2) or 1 mtCO2e reduction or avoidance. See classification in Core Carbon Attributes.
 - Unique identifier (Id): that is assigned when issued.
 - Owner: has Id of the account that is the owner of the token.
 - Issuer: the Id for the issuing standard registry.
@@ -19,9 +20,9 @@ Core Carbon Principles contain:
 - Generation Type:
 - Verification Standard: VCS, GS, etc.
 - Additionality:
-  - Some Value
+  - Some Value - see [additionality](#additionality)
 - Leakage:
-  - Some Value
+  - Some Value - see [leakage](#leakage)
 - Reference to Project/MBP/Claim
 - Reference to Contract/VerifiedClaims/Claim
 - Date Range: the verified time period of the benefit claim
@@ -33,7 +34,7 @@ Core Carbon Attributes contain:
   - Method: Nature | Technology
 - Vintage:
 - Storage: Biological | Geological
-- Durability: permanence risk score
+- Durability: permanence risk, short term (up to 100 years), medium term (100 to 1,000 years), and long term (more than 1,000 years)
 - Clear Removals:
   - N2O: <=0
   - CH4: <=0
@@ -55,3 +56,14 @@ Narrowing down the list of attributes to cover the majority of demand signal may
 
 - Year scale for Global Warming Potential (GWP) for calculating GHG CO2e:
   - 100yr GWP vs. 20yr GWP for methane(CH4) that has greater warming potential in the 20yr vs. 100yr GWP.
+
+### Additionality
+
+Additionality, for carbon removal, is whether it would have happened without the existence of the project. This is a complicated and controversial topic—relying on logic that can be difficult to prove in either direction.
+
+- There is not a single, clear market agreement for how to calculate the baseline against which a project’s impact gets measured. Project developers can misuse baselines, resulting in inflated credit values. Baselines against which removals are estimated must be set conservatively to minimize risk of over-crediting.
+- No common authoritative standard exists on how carbon finance and corporate procurement of credits contribute to additionality. Some projects have received criticism because payments for carbon credits are only a percentage of the entire project funding stack or because landowners don’t know that the project is generating carbon credits.
+
+### Leakage
+
+Some projects inadvertently shift emissions from one geographic area to another area that is not counted in the project claim. Activity leakage occurs when an activity is displaced from one geographic area to another one. Market leakage occurs when a project reduces supply of a specific product but market demand encourages others to provide that product instead. For example, carbon removal might be achieved in one area by letting trees grow longer but may indirectly result in trees being cut elsewhere to satisfy timber market demands. To improve leakage determinations, registries should develop stronger science-based benchmarks for leakage that are informed by research.
