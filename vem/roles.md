@@ -4,13 +4,13 @@ Roles in the VEM define an individual or organization that performs specific VEM
 
 ## Supplier
 
-A supplier performs the actions, in either an [Ecological Project or Program (EP)](credits/ep.md), for creating the asset value for use in the voluntary market and becomes the initial owner of the ecological benefit value generated. There can be multiple parties that are a part of the supplier role:
+A supplier performs the actions, in either an [Ecological Project or Program (EP)](supply/ep.md), for creating the asset value for use in the voluntary market and becomes the initial owner of the ecological benefit value generated. There can be multiple parties that are a part of the supplier role:
 
 - Owner: the organization or individual that owns the assets used in the activity that is the source of the benefit claims. For an Ecological Project, this might be the farmer.
 - Sponsor: the organization or individual that finances the activities generating the benefit claims. i.e. a bank or investment fund.
 - Developer: the organization or individual that constructs or develops techniques or technologies used in the activities that generate the benefit claims, like a direct air capture device manufacturer.
 
-There can be multiple participants in each of these, meaning there may be more than one sponsor. The identity of the participants is recorded in the [EP](credits/ep.md).
+There can be multiple participants in each of these, meaning there may be more than one sponsor. The identity of the participants is recorded in the [EP](supply/ep.md).
 
 ## Standard Registry
 
@@ -20,7 +20,7 @@ A registry can also maintain a central registry of credits that they issued that
 
 ## Verifier
 
-An organization that is certified by a Standard Registry to verify MRV claims issued by an [EP](credits/ep.md). The verifier may provide technical infrastructure to suppliers to submit claims to be verified and other services to assist and speed the time to market for verified credits as supply.
+An organization that is certified by a Standard Registry to verify MRV claims issued by an [EP](supply/ep.md). The verifier may provide technical infrastructure to suppliers to submit claims to be verified and other services to assist and speed the time to market for verified credits as supply.
 
 ## Buyer
 

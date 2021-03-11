@@ -14,21 +14,20 @@ A carbon offset is an intangible asset that is created by project owners. An off
 
 In the VEM, we will be collecting the requirements from the subject matter experts from emissions, credit offsets and market infrastructure based on historical experiences and the new possibilities made available when applying multi-party techniques and technology like distributed ledgers.
 
-Below are a list of high level business requirements for the major aspects of carbon markets.
+The VEM defines the voluntary ecological market in phases:
+
+- Creating Verified Supply
+- Establishing Voluntary Demand
+- Buying and Trading
+- Offsetting
+
+Each of these phases connected together to model out the lifecycle of an ecological market with standardized roles, token, contract and analytical draft specifications within each phase. The VEM documents these phases in separate sections where roles can play a part in each phase.
 
 ## Roles
 
-A list of roles that participants in a voluntary ecological market can play.
+Because roles in a voluntary market participate across phases of the lifecycle, we document and define them outside of the phases and reference them within the documentation within a phase.
 
 ### [Market Roles](roles.md)
-
-## Emissions and Reporting
-
-Most organizations participating in the voluntary market are setting goals and reporting their carbon emissions.
-
-Initially, the VEM will not attempt to define a level of detailed carbon accounting, but rather gather a coarse recording of Scope 1, 2 and 3 emission goals, actual and netting of owned credits to offset resulting in effective emissions to track progress for participants in the voluntary market.
-
-### [Emissions and Reporting](emissions/readme.md)
 
 ## Verified Supply - Credits
 
@@ -42,7 +41,15 @@ Here standard representations of value for either a ecological product or the so
 
 ### [Verified Supply - Credits](credits/readme.md)
 
-## Market Contracts and Infrastructure
+## Establishing Voluntary Demand - Emissions and Reporting
+
+Most organizations participating in the voluntary market are setting goals and reporting their carbon emissions.
+
+Initially, the VEM will not attempt to define a level of detailed carbon accounting, but rather gather a coarse recording of Scope 1, 2 and 3 emission goals, actual and netting of owned credits to offset resulting in effective emissions to track progress for participants in the voluntary market.
+
+### [Demand](demand/readme.md)
+
+## Buying and Trading
 
 Participants in the voluntary market will want to list, trade, offset, etc. these ecological projects and have a common understanding of the rules that the market will set.
 
@@ -51,38 +58,10 @@ Participants in the voluntary market will want to list, trade, offset, etc. thes
 
 ### [Market Contracts](contracts/readme.md)
 
-## Market Analytics
-
-Once a market is established, it is helpful to have standard ways of making sense of the larger ecosystem by identifying key attributes to be available for building custom searches or to build knowledge bases.
-
-### [Market Analytics](analytics/readme.md)
-
-## Exploring Focus Categories
-
-The VEM breaks out work into categories where subject matter experts can focus and contribute to the background, terms and definitions and specification development.
-
-[Emissions](emissions) - where [Greenhouse Gas Protocol](https://ghgprotocol.org) accounting results are tokenized with the appropriate behaviors, property sets and contract relationships are established. This includes key data attributes that could unlock analytical scenarios possible in the future. Initially, emissions will focus on higher level emissions and goal setting aligning with initiatives like the [SBTi](https://sciencebasedtargets.org).
-
-[Credits](credits) - where accounting results for GHG/Carbon reduction projects and emission allowances are tokenized with the appropriate behaviors, property sets and contract relationships are established. This includes key data attributes that could unlock analytical scenarios possible in the future.
-
-[Contracts](contracts) - where contract and workflows for parties working with both emissions and credit tokens are established.
-
-[Roles](roles.md) - where voluntary market participant roles are defined and described.
-
-[Analytics](analytics/readme.md)
-
 ## Standards
 
 The VEM will generate its token, interwork and analytic standards using the IWA frameworks and can be found in the framework libraries.
 
-## Scenario
-
-The basics of the VEM are to define the participants, tokens, contracts and shared data involved in the voluntary carbon ecosystem. We will break out into categories, emissions (demand/buyer) and offsets (supply/sell). These categories become connected in a marketplace where voluntary reporting organizations can record their emission goals and actual results and locate carbon credit suppliers to purchase and apply to actual emissions in order to reach an effective emission result that matches their goal.
-
-The use of tokenized/digital asset representations of both GHG/Carbon emissions as well as offset/reductions that are "aware" and "interact" with one another via complete lifecycle track and trace and unlock efficiencies in the accounting, reporting and intelligence in carbon markets.
-
-## High-level Details
-
-Both the [emissions](emissions) and [credits](credits) folders contain working documents for discussion and providing background for the tokenization of a [Carbon Emission Token](emissions/cet.md) and a [Core Carbon Principle Credit](credits/ccp.md). These tokens will represent the minimally viable shared data required for the multi-party scenarios for buyers, sellers and investors in these digital assets.  These tokens will be related to "contracts" like emissions reporting and goal pledges, carbon removal projects and other entities defined in the [Contracts](contracts) folder.
+Both the [demand](demand) and [supply](supply) folders contain working documents for discussion and providing background for the tokenization of a [Carbon Emission Token](emissions/cet.md) and a [Core Carbon Principle Credit](credits/ccp.md). These tokens will represent the minimally viable shared data required for the multi-party scenarios for buyers, sellers and investors in these digital assets.  These tokens will be related to "contracts" like emissions reporting and goal pledges, carbon removal projects and other entities defined across the lifecycle phases.
 
 ![VEM Frameworks](images/VEM-Tools.png)

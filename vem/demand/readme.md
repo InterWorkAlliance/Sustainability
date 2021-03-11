@@ -1,10 +1,10 @@
-# Emissions Category
+# Lifecycle - Establishing Voluntary Demand
 
-The SBW initially focuses on organizational voluntary emissions goals, reporting and applied offsets in order to match effective emissions with targeted goals. Calculating emissions follows the [Greenhouse Gas Protocol](https://ghgprotocol.org) and records emissions quantity, scope and category for the reporting organization.
+The SBW initially focuses on organizational voluntary emissions goals, reporting and applied offsets in order to match effective emissions with targeted goals. Calculating emissions follows the [Greenhouse Gas Protocol](https://ghgprotocol.org) and records emissions quantity, scope and category for the reporting organization. In order to send a demand signal an organization's sustainability goals, forecasting, buyer preferences and reporting should be established for tracking their progress as well as providing valuable guidance to suppliers.
 
 ## Emissions
 
-It is possible to tokenize emissions, however, the taskforce has not delved into this topic deeply to date and has a working draft that is a starting point.
+It is possible to tokenize emissions for reporting, however, the taskforce has not delved into this topic deeply to date and has a working draft that is a starting point.
 
 ### [Carbon Emission Token](cet.md)
 

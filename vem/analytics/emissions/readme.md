@@ -1,1 +1,0 @@
-# GHG Emissions Analytics

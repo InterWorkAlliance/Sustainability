@@ -1,4 +1,4 @@
-# Supply of Verified Ecological Credits
+# Lifecycle - Supply of Verified Ecological Credits
 
 The creation of carbon credits, a type of ecological benefit token, is the process of creating verified supply. The verification process should result in the creation of a high quality digital asset, a credit token, whose value can easily be determined and also quickly be compared with other tokens of the same type. However, all of the data needed to verify the integrity and value of the token should not all reside within the token itself, but be available in other data constructs involved in the verification process.
 
