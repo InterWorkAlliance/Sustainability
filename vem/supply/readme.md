@@ -18,7 +18,11 @@ The roles in the supply process use two basic types of token definitions to reco
 
 ### [Ecological Project or Program](ep.md) - the established identity and properties defining the common understanding of an ecological project that will create ecological benefit claims
 
-### [Ecological Benefit](ccp.md) - the token that references the verified benefit credit recorded in a registry, that is issued by the registry to the project owner
+Ecological Benefit tokens:
+
+### [Core Carbon Principles](ccp.md) - the token that references the verified benefit credit, reduction or removal, recorded in a registry, that is issued by the registry to the project owner
+
+### [Carbon Removal Unit](cru.md) - the token that references the verified Carbon Removal Unit credit recorded in a registry, that is issued by the registry to the project owner
 
 ## Contracts
 

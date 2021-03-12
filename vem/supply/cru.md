@@ -1,18 +1,18 @@
-# Core Carbon Principles (CCP) Token
+# Carbon Removal Unit (CRU) Token
 
-A Core Carbon Principles (CCP) token represents a specified volume of metric tons of GHG emissions reduced or removed by a project. The technique for reduction or removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CCP is a tradeable digital asset which the market determines price using the associated information found in the related entities on the network.
+A Carbon Removal Unit is very similar to the Core Carbon Principles (CCP) token regarding properties, but differs in that it is a non-fungible token (NFT). It represents 1 metric tons of GHG emissions removed by a project or program. The technique for removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CRU is a tradeable digital asset which the market determines price using the associated information found in the related entities on the network.
 
-The CCP has standard data elements the represent the shared view required by the parties in the carbon market from suppliers, buyers, verifiers, registries and exchanges and are based off of the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
+The CRU has standard data elements the represent the shared view required by the parties in the carbon market from suppliers, buyers, verifiers, registries and exchanges and are based off of the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
 
-Every CCP will have the following behaviors and properties:
+CRUs have the following behaviors and properties:
 
-- Is a fungible token that represents either 1 Carbon Removal Unit or CRU, a unit representing one metric ton of CO2 (mtCO2) or 1 mtCO2e reduction or avoidance. See classification in Core Carbon Attributes.
+- A non-fungible token (NFT) that represents 1 Carbon Removal Unit or CRU, a unit representing one metric ton of CO2 (mtCO2)
 - Is divisible, transferable, encumberable, revokable, delegable, offsetable and mintable with role support.
 - Unique identifier (Id): that is assigned when issued.
 - Owner: has Id of the account that is the owner of the token.
 - Issuer: the Id for the issuing standard registry.
-- Core Carbon Principles (CCP): a set of properties that every CCP will have
-- Core Carbon Attributes (CCA): a set of properties where the values can differ significantly between CCPs and allows comparisons and grouping like CCPs together.
+- Core Carbon Principles (CCP): a set of properties that every CRU will have
+- Core Carbon Attributes (CCA): a set of properties where the values can differ significantly between CRUs and allows comparisons and grouping like CRUs together.
 
 Core Carbon Principles contain:
 
@@ -31,7 +31,7 @@ Core Carbon Principles contain:
 Core Carbon Attributes contain:
 
 - Classification:
-  - Category: Reduction | Removal
+  - Category: Removal
   - Method: Nature | Technology
 - Vintage:
 - Storage: Biological | Geological
@@ -45,13 +45,13 @@ Core Carbon Attributes contain:
 
 **The complete draft of the TTF specification, including its token base and behaviors, for the [Core Carbon Principles token](https://github.com/InterWorkAlliance/TokenTaxonomyFramework/tree/main/artifacts/token-templates/specifications/Core-Carbon-Principles/latest).**
 
-![CCP-TTF](../images/ccp-ttf.png)
+![CRU-TTF](../images/cru-ttf.png)
 
-## Using CCP
+## Using CRU
 
-CCPs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
+CRUs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CRU, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
 
-## Issues with CCP
+## Issues with CRU
 
 Narrowing down the list of attributes to cover the majority of demand signal may run into limits when it comes to value variables like:
 
