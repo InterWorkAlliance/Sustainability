@@ -11,7 +11,7 @@ CRUs have the following behaviors and properties:
 - Unique identifier (Id): that is assigned when issued.
 - Owner: has Id of the account that is the owner of the token.
 - Issuer: the Id for the issuing standard registry.
-- Core Carbon Principles (CCP): a set of properties that every CRU will have
+- Core Carbon Principles (CCP): a set of properties that every CRU will have.
 - Core Carbon Attributes (CCA): a set of properties where the values can differ significantly between CRUs and allows comparisons and grouping like CRUs together.
 
 Core Carbon Principles contain:
@@ -24,9 +24,9 @@ Core Carbon Principles contain:
   - Some Value - see [additionality](#additionality)
 - Leakage:
   - Some Value - see [leakage](#leakage)
-- Reference to Project/MBP/Claim
-- Reference to Contract/VerifiedClaims/Claim
-- Date Range: the verified time period of the benefit claim
+- Reference to Project/MBP/Claim.
+- Reference to Contract/VerifiedClaims/Claim.
+- Date Range: the verified time period of the benefit claim.
 
 Core Carbon Attributes contain:
 
