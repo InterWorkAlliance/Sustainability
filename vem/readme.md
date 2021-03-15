@@ -39,7 +39,7 @@ Here standard representations of value for either a ecological product or the so
 - Record and link removal project and tokens to the removal technique and accounting methodology to enable quality grading of offsets based on aspects like geography, sequestration type, scientific measurement, etc.
 - Prevent the double crediting or spending of credits by removal projects or emissions reporters.
 
-### [Verified Supply - Credits](credits/readme.md)
+### [Verified Supply - Credits](supply/readme.md)
 
 ## Establishing Voluntary Demand - Emissions and Reporting
 
@@ -56,8 +56,12 @@ Participants in the voluntary market will want to list, trade, offset, etc. thes
 - Establish standardize contracts for applying or spending credits by emissions reporters retiring them so they cannot be applied again or resold once consumed.
 - Establish standard reference contracts, spot, forward and futures for either OTC or exchange based trades.
 
-### [Market Contracts](contracts/readme.md)
+### [Trading Contracts](trading/readme.md)
 
+
+## [Offsetting](offseting/readme.md)
+
+One a participant owns a credit they wish to use as an offset against their emissions, they can spend/retire their credit tokens towards their [ESG Goals](offsetting).
 ## Standards
 
 The VEM will generate its token, interwork and analytic standards using the IWA frameworks and can be found in the framework libraries.
