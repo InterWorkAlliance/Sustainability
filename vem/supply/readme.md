@@ -7,8 +7,8 @@ The creation of carbon credits, a type of ecological benefit token, is the proce
 The process or workflow for creating verified supply involves 3 roles:
 
 - A project owner or developer - this is the entity (person or company) that owns the project whose activities will be the source of benefit claims that are verified to create a credit.
-- A verifier - the entity who performs the actions needed to verify the benefit claims issued by a project. Claims and verification should be based on a scientific standard for measuring the results of the activity being conducted by the project.
-- A registry - the entity that establishes the scientific standard that the claims are based on and the rules for verifying them. A verifier is certified to verify claims against the established standard and once verified, the registry creates the verified carbon credit that represents the actual intangible value that becomes the property of the project owner that created the claim.
+- A VVB - the entity who performs the actions needed to verify the benefit claims issued by a project. Claims and verification should be based on a scientific standard for measuring the results of the activity being conducted by the project.
+- A registry - the entity that establishes the scientific standard that the claims are based on and the rules for verifying them. A VVB is certified to verify claims against the established standard and once verified, the registry creates the verified carbon credit that represents the actual intangible value that becomes the property of the project owner that created the claim.
 
 ![Supply](../images/vem-wf.png)
 
@@ -26,6 +26,6 @@ Ecological Benefit tokens:
 
 ## Contracts
 
-The relationship between the ecological project, verifier and registry is established in a [Verification Contract](verification.md). The contract establishes the terms and conditions for the submission of ecological benefit claims by the project to the verifier, the standard used and the issuance of tokens after a successful verification process.
+The relationship between the ecological project, VVB and registry is established in a [Verification Contract](verification.md). The contract establishes the terms and conditions for the submission of ecological benefit claims by the project to the VVB, the standard used and the issuance of tokens after a successful verification process.
 
 ### [Verification Contract](verification.md)

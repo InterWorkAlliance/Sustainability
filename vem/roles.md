@@ -14,13 +14,13 @@ There can be multiple participants in each of these, meaning there may be more t
 
 ## Standard Registry
 
-An organization that establishes science-based standards for measuring, reporting and verifying (MRV) ecological benefit claims and issues value in the form of credit for claims that meet the standard set. A standard registry also certifies verifiers to collect and process claims based on the established standard. The creation of scientific based standards for MRV is a rigorous discipline that requires independence from commercial influence in the pursuit of accurate accounting of benefit or emissions claims.
+An organization that establishes science-based standards for measuring, reporting and verifying (MRV) ecological benefit claims and issues value in the form of credit for claims that meet the standard set. A standard registry also certifies VVBs to collect and process claims based on the established standard. The creation of scientific based standards for MRV is a rigorous discipline that requires independence from commercial influence in the pursuit of accurate accounting of benefit or emissions claims.
 
 A registry can also maintain a central registry of credits that they issued that can be sold directly via the registry or established as reference value on networks, exchanges or marketplaces.
 
-## Verifier
+## Validation and Verification Body (VVB)
 
-An organization that is certified by a Standard Registry to verify MRV claims issued by an [EP](supply/ep.md). The verifier may provide technical infrastructure to suppliers to submit claims to be verified and other services to assist and speed the time to market for verified credits as supply.
+An organization that is certified by a Standard Registry to validate and verify MRV claims issued by an [EP](supply/ep.md). The VVB may provide technical infrastructure to suppliers to submit claims to be verified and other services to assist and speed the time to market for verified credits as supply.
 
 ## Buyer
 

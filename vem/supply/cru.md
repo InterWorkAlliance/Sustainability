@@ -2,7 +2,7 @@
 
 A Carbon Removal Unit is very similar to the Core Carbon Principles (CCP) token regarding properties, but differs in that it is a non-fungible token (NFT). It represents 1 metric tons of GHG emissions removed by a project or program. The technique for removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CRU is a tradeable digital asset which the market determines price using the associated information found in the related entities on the network.
 
-The CRU has standard data elements the represent the shared view required by the parties in the carbon market from suppliers, buyers, verifiers, registries and exchanges and are based off of the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
+The CRU has standard data elements the represent the shared view required by the parties in the carbon market from suppliers, buyers, VVBs, registries and exchanges and are based off of the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
 
 CRUs have the following behaviors and properties:
 

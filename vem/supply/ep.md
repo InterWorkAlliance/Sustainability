@@ -1,6 +1,6 @@
 # Ecological Project or Program (EP)
 
-Ecological Projects or Programs provide a single source of truth to all participants regarding the identity of a project or program and its ecological benefit claims. It is important to have this source of truth for all participants to be able to trace the ecological benefit token back to its project. Key details that are important for the supplier, verifier, registry and buyer in the market are recorded in the Ecological Project or Program object.
+Ecological Projects or Programs provide a single source of truth to all participants regarding the identity of a project or program and its ecological benefit claims. It is important to have this source of truth for all participants to be able to trace the ecological benefit token back to its project. Key details that are important for the supplier, VVB, registry and buyer in the market are recorded in the Ecological Project or Program object.
 
 What is the difference between a Project and a Program?
 
@@ -56,14 +56,14 @@ Claim contains:
 Here are the high-level, "greenfield", steps for establishing an ecological project and having [CCPs](ccp.md) issued for it.
 
 - An ecological project owner defines their project and determines the type of benefit claims that they will be making. Claims should be based off of a scientific standard established by a registry that matches the activity the project will be conducting.
-- The project owner will need to contract with a certified verifier of the standard for which they are submitting claims. Once contracted, the project owner can submit the claim, which is comprised of the data required by the standard for the time period of the claim and a  receipt, which is the entry in the Modular Benefit Project.
-- The contracted verifier verifies the claim against the associated registry standard. The amount of the claim, a carbon reduction or removal, becomes the verified claim which consists of the marked up claim data and verification report. This includes a receipt for the verified claim that is the entry on the verification contract.
+- The project owner will need to contract with a certified VVB of the standard for which they are submitting claims. Once contracted, the project owner can submit the claim, which is comprised of the data required by the standard for the time period of the claim and a  receipt, which is the entry in the Modular Benefit Project.
+- The contracted VVB verifies the claim against the associated registry standard. The amount of the claim, a carbon reduction or removal, becomes the verified claim which consists of the marked up claim data and verification report. This includes a receipt for the verified claim that is the entry on the verification contract.
 - A verified claim is then picked up by the registry of the standard used for the claim. After a quality check, the registry creates a credit in the amount verified by the claim. This becomes the carbon credit. Once the credit is established in the registry, the credit is "tokenized" in an intangible reference token. This is generically referred to as an Ecological Benefit Token, but is tokenized as a specific type, like a Core Carbon Principles token. On the registry and ledger where the token is implemented, the owner of the credit is the ecological project owner.
 
 ```plantuml
 @startuml
     actor projectOwner #blue
-    actor verifier #orange
+    actor VVB #orange
     actor registry #yellow
     entity ecologicalProject #blue
     entity claim #blue
@@ -73,10 +73,10 @@ Here are the high-level, "greenfield", steps for establishing an ecological proj
     entity benefitToken #green
 
     projectOwner ->    ecologicalProject: create(ecologicalProject)
-    projectOwner <-> verifier: establishContract(verificationContract)
+    projectOwner <-> VVB: establishContract(verificationContract)
     projectOwner -> ecologicalProject: createClaim(claim)
-    ecologicalProject <- verifier: verifyClaim(claim)
-    verifier -> verifiedClaim: create(claim)
+    ecologicalProject <- VVB: verifyClaim(claim)
+    VVB -> verifiedClaim: create(claim)
     verifiedClaim <- registry: qAVerifiedClaim()
     registry -> claimCredit: create(verifiedClaim)
     projectOwner <- registry: issueToken(benefitToken)
