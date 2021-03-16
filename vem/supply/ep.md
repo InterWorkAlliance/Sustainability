@@ -41,7 +41,7 @@ Modular Benefit Project contains:
 Claim contains:
 
 - Unique identifier (Id): An identifier that is issued and independent of the the MBP. The Id is used to establish a compound identifier linking the claim with its MBP and EP.
-- Verified Link: Is a reference to the source data the claim is based on. This contains a [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) pointing to the data file which can be verified. The data file should be accompanied by either a signature or a hash so that the integrity can be verified. This can be accomplished using the [W3C DID specification](https://www.w3.org/TR/did-core/).
+- Verified Link: Is a reference to the source data the claim is based on. This contains a [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) pointing to the data file which can be verified. The data file should be accompanied by either a signature or a hash so that the integrity can be verified. For example, this can be accomplished using the [W3C DID specification](https://www.w3.org/TR/did-core/).
 - Date Range: The date span for which the claim is being made.
 - Environmental Effects Before: A measure of the claim before project activities.
 - Environmental Effects After: A measure of the claim after project activities.
