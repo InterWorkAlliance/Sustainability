@@ -58,12 +58,12 @@ Participants in the voluntary market will want to list, trade, offset, etc. thes
 
 ### [Trading Contracts](trading/readme.md)
 
-
 ## Offsetting with Credits
 
 One a participant owns a credit they wish to use as an offset against their emissions, they can spend/retire their credit tokens towards their [ESG Goals](offsetting).
 
 ### [Offsetting](offseting/readme.md)
+
 ## Standards
 
 The VEM will generate its token, interwork and analytic standards using the IWA frameworks and can be found in the framework libraries.
