@@ -49,11 +49,11 @@ Core Carbon Attributes contain:
 
 ## Using CCP
 
-CCPs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
+CCPs can be held for their value or spent to offset reported emissions in either a voluntary or a regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
 
 ## Issues with CCP
 
-Narrowing down the list of attributes to cover the majority of demand signal may run into limits when it comes to value variables like:
+Narrowing the list of attributes to cover the majority of demand signals may cause limitations when it comes to value variables including:
 
 - Year scale for Global Warming Potential (GWP) for calculating GHG CO2e:
   - 100yr GWP vs. 20yr GWP for methane(CH4) that has greater warming potential in the 20yr vs. 100yr GWP.
@@ -63,8 +63,8 @@ Narrowing down the list of attributes to cover the majority of demand signal may
 Additionality, for carbon removal, is whether it would have happened without the existence of the project. This is a complicated and controversial topic—relying on logic that can be difficult to prove in either direction.
 
 - There is not a single, clear market agreement for how to calculate the baseline against which a project’s impact gets measured. Project developers can misuse baselines, resulting in inflated credit values. Baselines against which removals are estimated must be set conservatively to minimize risk of over-crediting.
-- No common authoritative standard exists on how carbon finance and corporate procurement of credits contribute to additionality. Some projects have received criticism because payments for carbon credits are only a percentage of the entire project funding stack or because landowners don’t know that the project is generating carbon credits.
+- No best practice, or common authoritiative standards body guiding best practices, exists to guide decisions on how carbon finance and corporate procurement of credits contribute to additionality. Some projects have received criticism because payments for carbon credits are only a percentage of the entire project funding stack or because landowners don’t know that the project is generating carbon credits.
 
 ### Leakage
 
-Some projects inadvertently shift emissions from one geographic area to another area that is not counted in the project claim. Activity leakage occurs when an activity is displaced from one geographic area to another one. Market leakage occurs when a project reduces supply of a specific product but market demand encourages others to provide that product instead. For example, carbon removal might be achieved in one area by letting trees grow longer but may indirectly result in trees being cut elsewhere to satisfy timber market demands. To improve leakage determinations, registries should develop stronger science-based benchmarks for leakage that are informed by research.
+Some projects inadvertently shift emissions from one geographic area to another area that is not counted in the project claim. Activity leakage occurs when an activity is displaced from one geographic area to another. Market leakage occurs when a project reduces supply of a specific product but market demand encourages others to provide that product instead. For example, carbon removal might be achieved in one area by letting trees grow longer but may indirectly result in trees being cut elsewhere to satisfy timber market demands. To improve leakage determinations, registries should develop stronger science-based benchmarks for leakage that are informed by research.
