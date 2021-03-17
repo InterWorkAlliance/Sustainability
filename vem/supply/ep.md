@@ -1,6 +1,6 @@
 # Ecological Project or Program (EP)
 
-Ecological Projects or Programs provide a single source of truth to all participants regarding the identity of a project or program and its ecological benefit claims. It is important to have this source of truth for all participants to be able to trace the ecological benefit token back to its project. Key details that are important for the supplier, VVB, registry and buyer in the market are recorded in the Ecological Project or Program object.
+Ecological Projects or Programs provide a single source of truth to all participants regarding the identity of a project or program and its ecological benefit claims. It is important to have this source of truth for all participants to be able to trace the ecological benefit token back to its project. Key details that are important for the supplier, validation and verification body ("VVB"), registry and buyer in the market are recorded in the Ecological Project or Program object.
 
 What is the difference between a Project and a Program?
 

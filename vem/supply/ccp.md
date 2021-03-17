@@ -1,23 +1,23 @@
 # Core Carbon Principles (CCP) Token
 
-A Core Carbon Principles (CCP) token represents a specified volume of metric tons of GHG emissions reduced or removed by a project. The technique for reduction or removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CCP is a tradeable digital asset which the market determines price using the associated information found in the related entities on the network.
+A Core Carbon Principles ("CCP") token represents a specified volume of metric tons of greenhouse gas ("GHG") emissions reduced or removed by a project. The technique for reduction or removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CCP is a tradeable digital asset that's price is determined by the market using the associated information found in the related entities.
 
-The CCP has standard data elements the represent the shared view required by the parties in the carbon market from suppliers, buyers, VVBs, registries and exchanges and are based off of the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
+The CCP has standard data elements that represent the shared view required by the parties in the carbon market from suppliers, buyers, validation and verification bodies ("VVB"), registries and exchanges. These standard data elements are based on the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
 
 Every CCP will have the following behaviors and properties:
 
 - Is a fungible token that represents either 1 Carbon Removal Unit or CRU, a unit representing one metric ton of CO2 (mtCO2) or 1 mtCO2e reduction or avoidance. See classification in Core Carbon Attributes.
 - Is divisible, transferable, encumberable, revokable, delegable, offsetable and mintable with role support.
-- Unique identifier (Id): that is assigned when issued.
-- Owner: has Id of the account that is the owner of the token.
-- Issuer: the Id for the issuing standard registry.
-- Core Carbon Principles (CCP): a set of properties that every CCP will have
-- Core Carbon Attributes (CCA): a set of properties where the values can differ significantly between CCPs and allows comparisons and grouping like CCPs together.
+- Unique identifier (Id): An identifier that is assigned when issued.
+- Owner: The Id of the account that is the owner of the token.
+- Issuer: The Id for the issuing standard registry.
+- Core Carbon Principles (CCP): A set of properties that every CCP will have.
+- Core Carbon Attributes (CCA): A set of properties where the values can differ significantly between CCPs and allows comparisons and grouping of like CCPs together.
 
 Core Carbon Principles contain:
 
-- AssetId: the serial number or unique identifier of the referenced credit on the standard registry that the token represents.
-- Issuance Date: the date of creation.
+- AssetId: The serial number or unique identifier of the referenced credit on the standard registry that the token represents.
+- Issuance Date: The date of creation.
 - Generation Type:
 - Verification Standard: VCS, GS, etc.
 - Additionality:
@@ -26,7 +26,7 @@ Core Carbon Principles contain:
   - Some Value - see [leakage](#leakage)
 - Reference to Project/MBP/Claim
 - Reference to Contract/VerifiedClaims/Claim
-- Date Range: the verified time period of the benefit claim
+- Date Range: The verified time period of the benefit claim.
 
 Core Carbon Attributes contain:
 
@@ -39,7 +39,7 @@ Core Carbon Attributes contain:
 - Clear Removals:
   - N2O: <=0
   - CH4: <=0
-- Co-benefits: one or more from a list
+- Co-benefits: One or more options from a list of the added benefits we get above and beyond the direct benefits of a more stable climate.
 - PA-Compliance:
   - Corresponding Adjustment
 

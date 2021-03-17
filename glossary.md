@@ -158,6 +158,7 @@
 - **MiFID**: The Markets in Financial Instruments Directive (Directive 2004/39/EC). An EU law providing harmonized regulation for investment services to increase competition and consumer protection. The second revision, MiFID II, is due in force from 2017 and would cover all spot and derivatives contracts for commodities, including carbon.
 - **Marrakesh Accords**: Agreement reached under the UNFCCC on finer details of the international climate change policy regime developed at the seventh Conference of the Parties in 2001. The Accords cover significant principles for emissions accounting, the implementation of flexible mechanisms and technology transfer.
 - **Memorandum of Understanding (MoU)**: An agreement between two parties to formally recognize a joint desire to conclude an agreement or to achieve goals jointly. It may have legal backing of sanction and are often used as a basis for CDM/JI projects between a host and investor country.
+- **Metric Ton of CO2 Equivalent (mtCO2e)**: Metric tons of carbon dioxide equivalent or MTCO2e is a unit of measurement. The unit "CO2e" represents an amount of a GHG whose atmospheric impact has been standardized to that of one unit mass of carbon dioxide (CO2), based on the global warming potential (GWP) of the gas.
 - **Mitigation**: An intervention to reduce greenhouse gas emissions, either by reducing the sources of the emissions or enhancing sinks soaking them up.
 
 ## N
