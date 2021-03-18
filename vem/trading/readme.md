@@ -7,17 +7,25 @@ Here contracts that span across emissions and credits like a Delivery vs. Paymen
 TBD Defined:
 
 - Spot
-- Forward
-- Futures
-
+- Forward: a private and customizable agreement that settles at the end of the agreement and is traded over-the-counter.
+- Futures: a standardized terms contract, traded on an exchange, where prices are settled on a daily basis until the end of the contract.
+ 
 ## Buyer Preference for Offsets
 
-Buyers in a voluntary marketplace can send a demand signal through their [ESG Scorecard](../demand/ESG-Scorecard.md), but will also need to be able to search for and trade credits based on their properties. Buyer preference can be based on classification, i.e. reduction vs. removal and natural vs. technology, or more complex based on a set of conditions like co-benefits, source geography, etc.
+Buyers in a voluntary marketplace can send a demand signal through their [ESG Scorecard](../demand/ESG-Scorecard.md), but will also need to be able to search for and trade credits based on their properties. Buyer preference can be based on a classification filter, e.g. 
+  - reduction vs. removal
+  - natural vs. technology
+  - co-benefits types
+  - source geography
+  - Vintage
+  - Durability
+  - Methodology
+  - etc
 
 ## Voluntary Buyer Use Cases
 
-As a voluntary market can offer both standardized carbon credits like a commodity, a.k.a. a standard reference contract that is fungible with other credits in the same class, or can be non-fungible custom contracts that can differ in value and also be bundled together based on their Core Carbon Attributes, an implementation should have searchable parameters.
+A voluntary market can offer standardized carbon credit baskets like a commodity, a.k.a. a standard reference contract that is fungible with other credits in the same class or basket.  These could also be structured around compliance market standards such that a voluntary offset could also meet the requirements of California Cap and Trade.  Additionally, carbon offsets can be non-fungible custom contracts that can differ in value and also be bundled together based on their Core Carbon Attributes.  Both fungible and non-fungible offsets should have searchable parameters.
 
 Using the specifications for [Ecological Projects](../credits/ecological-project.md), [Core Carbon Principle Credits](../credits/ccp.md) and [Verification Contracts](../credits/verification.md), buyers should be able build queries to find products based on their buyer preferences.
 
-![ESG Buyer Search](../../images/esg-search.png)
+![ESG Buyer Search](../../images/Demand Search.png)
