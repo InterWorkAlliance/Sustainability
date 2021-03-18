@@ -28,4 +28,4 @@ A voluntary market can offer standardized carbon credit baskets like a commodity
 
 Using the specifications for [Ecological Projects](../credits/ecological-project.md), [Core Carbon Principle Credits](../credits/ccp.md) and [Verification Contracts](../credits/verification.md), buyers should be able build queries to find products based on their buyer preferences.
 
-[ESG Buyer Search](../../images/demand-search.png)
+![ESG Buyer Search](../images/demand-search.png)
