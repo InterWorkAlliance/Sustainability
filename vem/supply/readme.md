@@ -7,7 +7,7 @@ The creation of carbon credits, a type of ecological benefit token, is the proce
 The process or workflow for creating verified supply involves 3 roles:
 
 - A project owner or developer - this is the entity (person or company) that owns the project whose activities will be the source of benefit claims. These claims are part of a measurement or monitoring, reporting and verification [MRV](mrv.md) process that results in the creation of a credit.
-- A VVB - the entity who performs the actions needed to verify the benefit claims issued by a project. Claims and verification should be based on a scientific standard for measuring the results of the activity being conducted by the project.
+- A [VVB](https://github.com/InterWorkAlliance/Sustainability/blob/hedera-edits/vem/supply/readme.md) - the entity who performs the actions needed to verify the benefit claims issued by a project. Claims and verification should be based on a scientific standard for measuring the results of the activity being conducted by the project.
 - A standard registry - the entity that establishes the scientific standard that the claims are based on and the rules for verifying them. A VVB is certified to verify claims against the established standard. Once verified, the registry creates the carbon credit that represents the actual intangible value. This credit becomes the property of the project owner that created the claim.
 
 ![Supply](../images/vem-wf.png)
