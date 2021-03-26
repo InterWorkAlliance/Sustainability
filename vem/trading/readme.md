@@ -1,14 +1,18 @@
 # Lifecycle - Buying and Trading Contracts
 
-Here contracts that span across emissions and credits like a Delivery vs. Payment contract for trading offsets for another established value (money). The VEM will align with the recommendations issued by the [TSVCM](https://www.iif.com/tsvcm) operating committee to shape the drafts for each of the below contract types.
+This section covers contracts that span across emissions and credits like a Delivery vs. Payment contract for trading offsets for another established value (money). The VEM will align with the recommendations issued by the [TSVCM](https://www.iif.com/tsvcm) operating committee to shape the drafts for each of the below contract types.
 
 ## Standard Reference Contracts
 
-TBD Defined:
+Due to the nature of the underlying “commodity/asset,” these contracts will have to be cash-settled as physical delivery is not possible.
+These contracts can be fungible or non-fungible, but the distinction may impact the legal analysis if the contract is a security, commodity, or hybrid.
 
-- Spot
-- Forward: a private and customizable agreement that settles at the end of the agreement and is traded over-the-counter.
-- Futures: a standardized terms contract, traded on an exchange, where prices are settled on a daily basis until the end of the contract.
+TBD Defined:
+-	Spot – typically, spot markets are considered to settle in T+2. However, gas spot markets may have hourly delivery (however hourly settlement might not be possible.
+-	Forward – OTC contracts between two parties agreeing on terms of a contract for future delivery or settlement (typically within 24 months).
+-	Futures – derivative financial instruments that derive their value from the underlying asset. Typically exchange boilerplate listed contracts traded for up to 24 months (most futures exchanges are in North America, UK, Asia)
+
+
  
 ## Buyer Preference for Offsets
 
@@ -21,10 +25,13 @@ Buyers in a voluntary marketplace can send a demand signal through their [ESG Sc
   - Durability
   - Methodology
   - etc
+  
+However, through the derivatives instruments (spot/forwards/futures), there would be a readily available market to bring the sellers and buyers of the offers together.
+
 
 ## Voluntary Buyer Use Cases
 
-A voluntary market can offer standardized carbon credit baskets like a commodity, a.k.a. a standard reference contract that is fungible with other credits in the same class or basket.  These could also be structured around compliance market standards such that a voluntary offset could also meet the requirements of California Cap and Trade.  Additionally, carbon offsets can be non-fungible custom contracts that can differ in value and also be bundled together based on their Core Carbon Attributes.  Both fungible and non-fungible offsets should have searchable parameters.
+As a voluntary market can offer both standardized carbon credits like a commodity, a.k.a. a standard reference contract that is fungible with other credits in the same class or can be non-fungible custom contracts that can differ in value and also be bundled together based on their Core Carbon Attributes, an implementation should have searchable parameters.
 
 Using the specifications for [Ecological Projects](../credits/ecological-project.md), [Core Carbon Principle Credits](../credits/ccp.md) and [Verification Contracts](../credits/verification.md), buyers should be able build queries to find products based on their buyer preferences.
 
