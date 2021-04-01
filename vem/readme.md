@@ -62,7 +62,7 @@ Participants in the voluntary market will want to list, trade, offset, etc. thes
 
 One a participant owns a credit they wish to use as an offset against their emissions, they can spend/retire their credit tokens towards their [ESG Goals](offsetting).
 
-### [Offsetting](offseting/readme.md)
+### [Offsetting](offsetting/readme.md)
 
 ## Standards
 
