@@ -49,7 +49,7 @@ Core Carbon Attributes contain:
 
 ## Using CCP
 
-CCPs can be held for their value or spent to offset reported emissions in either a voluntary or a regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
+CCPs can be held for their value or spent to offset reported emissions in either a voluntary or a regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../demand/ESG-Scorecard.md)
 
 ## Issues with CCP
 
