@@ -43,13 +43,13 @@ Core Carbon Attributes contain:
 - PA-Compliance:
   - Corresponding Adjustment
 
-**The complete draft of the TTF specification, including its token base and behaviors, for the [Carbon Removal Unit token](https://github.com/InterWorkAlliance/TokenTaxonomyFramework/tree/main/artifacts/token-templates/specifications/Carbon-Removal-Unit/latest).**
+**The complete draft of the TTF specification, including its token base and behaviors, for the [Carbon Removal Unit token](https://github.com/InterWorkAlliance/TTF/tree/master/artifacts/token-templates/specifications/Carbon-Removal-Unit/latest).**
 
 ![CRU-TTF](../images/cru-ttf.png)
 
 ## Using CRU
 
-CRUs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CRU, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../emissions/ESG-Scorecard.md)
+CRUs can be held for their value or spent to offset reported emissions in either a voluntary or regulated environment. When an owner offsets a CRU, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../demand/ESG-Scorecard.md)
 
 ## Issues with CRU
 

@@ -68,6 +68,6 @@ One a participant owns a credit they wish to use as an offset against their emis
 
 The VEM will generate its token, interwork and analytic standards using the IWA frameworks and can be found in the framework libraries.
 
-Both the [demand](demand) and [supply](supply) folders contain working documents for discussion and providing background for the tokenization of a [Carbon Emission Token](emissions/cet.md) and a [Core Carbon Principle Credit](credits/ccp.md). These tokens will represent the minimally viable shared data required for the multi-party scenarios for buyers, sellers and investors in these digital assets.  These tokens will be related to "contracts" like emissions reporting and goal pledges, carbon removal projects and other entities defined across the lifecycle phases.
+Both the [demand](demand) and [supply](supply) folders contain working documents for discussion and providing background for the tokenization of a [Carbon Emission Token](demand/cet.md) and a [Core Carbon Principle Credit](supply/ccp.md). These tokens will represent the minimally viable shared data required for the multi-party scenarios for buyers, sellers and investors in these digital assets.  These tokens will be related to "contracts" like emissions reporting and goal pledges, carbon removal projects and other entities defined across the lifecycle phases.
 
 ![VEM Frameworks](images/VEM-Tools.png)
