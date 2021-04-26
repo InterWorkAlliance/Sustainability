@@ -33,3 +33,7 @@ Ecological Benefit tokens:
 The relationship between the ecological project, VVB and registry is established in a [Verification Contract](verification.md). The contract establishes the terms and conditions for the submission of ecological benefit claims by the project to the VVB, the standard used and the issuance of tokens after a successful verification process.
 
 ### [Verification Contract](verification.md)
+
+## MRV
+
+Benefit claims made by [Modular Benefit Projects](ep.md) are the result of a process called [measurement, reporting and verification (MRV)](mrv.md). The MRV process has been defined as a generic framework that allows for interchangeable standards, measurement methods and verification processes that result in the creation of standard benefit claims that provide the receipts forming a basis for the establishment of value in the carbon credit tokens described above.
