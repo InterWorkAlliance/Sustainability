@@ -9,7 +9,7 @@ deliverable and cash-settled trades.
 The underlyings can be fungible or non-fungible, but the distinction may impact the legal analysis if the contract is
 a security, commodity, or hybrid.
 
-The three basic broad classes on contracts are:
+The three simplest classes of contracts are:
 -	Spot – standard "immediate settlement" for a market. Often T+2 but market conventions vary from minutes to T+3 or further.
 -	Forward – contracts between two parties for delivery/settlement at a date (or time) other than Spot.
 -	Futures – derivative financial instruments that derive their value from the underlying asset. Typically exchange boilerplate listed contracts traded for up to 24 months (most futures exchanges are in North America, UK, Asia)
