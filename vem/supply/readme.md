@@ -20,13 +20,13 @@ Benefit claims are created through the measurement, reporting and verification o
 
 The roles in the supply process use two basic types of token definitions to record their activities.
 
-### [Ecological Project or Program](ep.md) - the established identity and properties defining the common understanding of an ecological project that will create ecological benefit claims
+[Ecological Project or Program](ep.md) - the established identity and properties defining the common understanding of an ecological project that will create ecological benefit claims
 
-Ecological Benefit tokens:
+## Ecological Benefit Tokens
 
-### [Core Carbon Principles](ccp.md) - the token that references the verified benefit credit, reduction or removal, recorded in a registry, that is issued by the registry to the project owner
+[Core Carbon Principles](ccp.md) - the token that references the verified benefit credit, reduction or removal, recorded in a registry, that is issued by the registry to the project owner
 
-### [Carbon Removal Unit](cru.md) - the token that references the verified Carbon Removal Unit credit recorded in a registry, that is issued by the registry to the project owner
+[Carbon Removal Unit](cru.md) - the token that references the verified Carbon Removal Unit credit recorded in a registry, that is issued by the registry to the project owner
 
 ## Contracts
 
