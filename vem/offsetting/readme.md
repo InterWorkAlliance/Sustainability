@@ -20,6 +20,5 @@ Carbon Reference Tokens (CRTs) represent credits that can be used to offset or d
 @enduml
 ```
 
-![Offsetting](../images/ESG-flow-4.png)
 
 Once track and trace capabilities are realized the applied offsets should cascade in the supply chain and be reflected upstream in a reduction of Scope 3 reported emissions.
