@@ -1,70 +1,57 @@
-# Core Carbon Principles (CCP) Token
+# Core Carbon Principles (CCP)
 
-A Core Carbon Principles ("CCP") token represents a specified volume of metric tons of greenhouse gas ("GHG") emissions reduced or removed by a project. The technique for reduction or removal, its measurement and verification methodology is found in the Verification Contract and the issuing standard registry. The CCP is a tradeable digital asset that's price is determined by the market using the associated information found in the related entities.
+In 2021, the taskforce decided to participate with the large number of organizations and thought leaders
+seeking to drive integrity and scale for the VEMs through the Taskforce for Scaling Voluntary Carbon
+Markets (TSVCM). The TSVCM’s findings and recommendations have been used to launch the Integrity
+Council for Voluntary Carbon Markets (ICVCM), to carry the work forward into practice. Out of these
+efforts came proposed Core Carbon Principles (CCP). The taskforce has not formally adopted or agreed
+with the CCPs or the other recommendations of the ICVCM. We encourage the ICVCM to collaborate with
+this taskforce.
 
-The CCP has standard data elements that represent the shared view required by the parties in the carbon market from suppliers, buyers, validation and verification bodies ("VVB"), registries and exchanges. These standard data elements are based on the recommendations from the [TSVCM](https://www.iif.com/tsvcm).
+As of this writing, the CCPs are still open to public comment and their future is uncertain and often
+controversial.
 
-Every CCP will have the following behaviors and properties:
+For purposes of demonstrating potential alignment, however, the taskforce has taken our first pass
+at converting the CCPs into a set of properties or attributes that can be attached to tokenized carbon
+credits in anticipation of their adoption. The benefit of isolating these attributes into a dedicated CCP
+property-set is that it allows for them to be updated, or even replaced independently by a different set of
+attributes, if the need arises.
 
-- Is a fungible token that represents either 1 Carbon Removal Unit or CRU, a unit representing one metric ton of CO2 (mtCO2) or 1 mtCO2e reduction or avoidance. See classification in Core Carbon Attributes.
-- Is divisible, transferable, encumberable, revokable, delegable, offsetable and mintable with role support.
-- Unique identifier (Id): An identifier that is assigned when issued.
-- Owner: The Id of the account that is the owner of the token.
-- Issuer: The Id for the issuing standard registry.
-- Core Carbon Principles (CCP): A set of properties that every CCP will have.
-- Core Carbon Attributes (CCA): A set of properties where the values can differ significantly between CCPs and allows comparisons and grouping of like CCPs together.
+• The CCPs in public consultation are Additionality, Mitigation Activity Information, no double
+counting, Permanence, Program Governance, Registry, Robust Independent 3rd party verification,
+Quantification of emission reductions and removals, Sustainable development goal (SDG) impacts
+and safeguards, and transition towards net-zero emissions.
+• We cannot provide an open standard approach for these CCPs in a single property-set, but we can
+reflect them using a combination of a property-set paired with token definitions to represent carbon
+offsets and removals.
 
-Core Carbon Principles contain:
+The CCP property-set example can reflect the values developed by the ICVCM as well as other properties
+that all carbon offsets or removals would have. This means that tokenization efforts can include
+attachment of this, or other market best practice property-sets, to different template specifications.
 
-- AssetId: The serial number or unique identifier of the referenced credit on the standard registry that the token represents.
-- Issuance Date: The date of creation.
-- Generation Type:
-- Verification Standard: VCS, GS, etc.
-- Additionality:
-  - Some Value - see [additionality](#additionality)
-- Leakage:
-  - Some Value - see [leakage](#leakage)
-- Reference to Project/MBP/Claim
-- Reference to Contract/VerifiedClaims/Claim
-- Date Range: The verified time period of the benefit claim.
+# EXAMPLE: Developing a Core Carbon Property-Set
 
-Core Carbon Attributes contain:
-
-- Classification:
-  - Category: Reduction | Removal
-  - Method: Nature | Technology
-- Vintage:
-- Storage: Biological | Geological
-- Durability: permanence risk, short term (up to 100 years), medium term (100 to 1,000 years), and long term (more than 1,000 years)
-- Clear Removals:
-  - N2O: <=0
-  - CH4: <=0
-- Co-benefits: One or more options from a list of the added benefits we get above and beyond the direct benefits of a more stable climate.
-- PA-Compliance:
-  - Corresponding Adjustment
-
-**The complete draft of the TTF specification, including its token base and behaviors, for the [Core Carbon Principles token](https://github.com/InterWorkAlliance/TokenTaxonomyFramework/tree/main/artifacts/token-templates/specifications/Core-Carbon-Principles/latest).**
-
-![CCP-TTF](../images/ccp-ttf.png)
-
-## Using CCP
-
-CCPs can be held for their value or spent to offset reported emissions in either a voluntary or a regulated environment. When an owner offsets a CCP, it is applied towards an ESG Goal or other target and is retired or burned and cannot be offset again. [See ESG Scorecard](../demand/ESG-Scorecard.md)
-
-## Issues with CCP
-
-Narrowing the list of attributes to cover the majority of demand signals may cause limitations when it comes to value variables including:
-
-- Year scale for Global Warming Potential (GWP) for calculating GHG CO2e:
-  - 100yr GWP vs. 20yr GWP for methane(CH4) that has greater warming potential in the 20yr vs. 100yr GWP.
-
-### Additionality
-
-Additionality, for carbon removal, is whether it would have happened without the existence of the project. This is a complicated and controversial topic—relying on logic that can be difficult to prove in either direction.
-
-- There is not a single, clear market agreement for how to calculate the baseline against which a project’s impact gets measured. Project developers can misuse baselines, resulting in inflated credit values. Baselines against which removals are estimated must be set conservatively to minimize risk of over-crediting.
-- No best practice, or common authoritiative standards body guiding best practices, exists to guide decisions on how carbon finance and corporate procurement of credits contribute to additionality. Some projects have received criticism because payments for carbon credits are only a percentage of the entire project funding stack or because landowners don’t know that the project is generating carbon credits.
-
-### Leakage
-
-Some projects inadvertently shift emissions from one geographic area to another area that is not counted in the project claim. Activity leakage occurs when an activity is displaced from one geographic area to another. Market leakage occurs when a project reduces supply of a specific product but market demand encourages others to provide that product instead. For example, carbon removal might be achieved in one area by letting trees grow longer but may indirectly result in trees being cut elsewhere to satisfy timber market demands. To improve leakage determinations, registries should develop stronger science-based benchmarks for leakage that are informed by research.
+• Asset Id: A string that can contain the issuing registry’s master id or serial number that resides on
+their registry system. Could be empty or the same as the token’s id if not needed.
+• Issuance Date: The date the token was issued.
+• Vintage: Refers to the year that the emissions reduction or removal took place or will take place.
+• Generation Type: Generated, Ex-post or Ex-ante, where Generated indicates near real-time issuance
+typically reserved for high-precision activities that can be verified and issued in shorter time frames;
+Ex-post is based on verified evidence and factored based on historical results; Ex-ante are forward
+estimates of reduction or removals.
+• Quality Standard: The quality standard used to determine and issue an ecological benefit token.
+These can be a voluntary or compliance/regulatory standard.
+• Mitigation Activity: The mitigation activity that is used to generate the ecological benefit token, a
+combination of:
+o Category: Reduction or Removal
+o Method: Biological, Technological, or Both
+• Durability: This is the recommendation that replaces permanence for CCPs as it includes the risk profile
+and not simply true or false. [see Durability]
+• Replacement: This is set if this token replaces a revoked or adjusted token, i.e., a reversal event that
+requires a credit be replaced with one from a reserve pool.
+• Paris Agreement Compliance: This is set if using Paris Agreement specific attributes:
+o Corresponding Adjustment: None, Paris Agreement Compliance, or Pending
+o Letter of Approval: A verified link to the jurisdiction’s approval for CA.
+• Quantified SDG Impacts: The Co-benefits or SDGs with quantified impacts.
+• Adaptation of Co-benefits: The adaptation of co-benefits consistent with the host country’s priorities,
+consistent with the provisions under Article 7.1 of the Paris Agreement. 
