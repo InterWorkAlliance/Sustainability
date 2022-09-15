@@ -49,9 +49,9 @@ These can be a voluntary or compliance/regulatory standard.
 • Mitigation Activity: The mitigation activity that is used to generate the ecological benefit token, a
 combination of:
   
-  o Category: Reduction or Removal
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Category: Reduction or Removal
   
-  o Method: Biological, Technological, or Both
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Method: Biological, Technological, or Both
 
 • Durability: This is the recommendation that replaces permanence for CCPs as it includes the risk profile
 and not simply true or false. [see Durability]
@@ -61,9 +61,9 @@ requires a credit be replaced with one from a reserve pool.
 
 • Paris Agreement Compliance: This is set if using Paris Agreement specific attributes:
 
-  o Corresponding Adjustment: None, Paris Agreement Compliance, or Pending
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Corresponding Adjustment: None, Paris Agreement Compliance, or Pending
   
-  o Letter of Approval: A verified link to the jurisdiction’s approval for CA.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Letter of Approval: A verified link to the jurisdiction’s approval for CA.
 
 • Quantified SDG Impacts: The Co-benefits or SDGs with quantified impacts.
 
