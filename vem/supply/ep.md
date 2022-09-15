@@ -53,7 +53,7 @@ Claim contains:
 
 ## Basic flow for establishing a project and issuing offsets
 
-Here are the high-level, "greenfield", steps for establishing an ecological project and having [CCPs](ccp.md) issued for it.
+Here are the high-level, potential “greenfield” steps the market could take for establishing an ecological project and having a digital ecological asset issued for it:
 
 - An ecological project owner defines their ecological project and determines the type of environmental benefits it seeks to achieve and associated claims.  Such benefits will be measured by and/or against and based on a Quality Standard established by a credible standards body that matches and maps to the activity the EP will be implementing/conducting.
 - The project owner will register with the applicable Standards Body and Issuing Registry and obtain all necessary authorizations in accordance with the rules and requirements of each.
