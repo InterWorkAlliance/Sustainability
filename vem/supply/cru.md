@@ -43,7 +43,7 @@ Core Carbon Attributes contain:
 - PA-Compliance:
   - Corresponding Adjustment
 
-**The complete draft of the TTF specification, including its token base and behaviors, for the [Carbon Removal Unit token](https://github.com/InterWorkAlliance/TTF/tree/master/artifacts/token-templates/specifications/Carbon-Removal-Unit/latest).**
+**The complete draft of the TTF specification, including its token base and behaviors, for the [Carbon Removal Unit token](https://github.com/InterWorkAlliance/TokenTaxonomyFramework/tree/main/artifacts/token-templates/specifications/Carbon-Reduction-or-Removal-Unit/latest).**
 
 ![CRU-TTF](../images/cru-ttf.png)
 
