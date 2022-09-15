@@ -24,7 +24,7 @@ The roles in the supply process use two basic types of token definitions to reco
 
 Ecological Benefit tokens:
 
-### [Core Carbon Principles](ccp.md) - the token that references the verified benefit credit, reduction or removal, recorded in a registry, that is issued by the registry to the project owner
+### [Carbon Reference Token](crt.md) - the token that references the verified benefit credit, reduction or removal, recorded in a registry, that is issued by the registry to the project owner
 
 ### [Carbon Removal Unit](cru.md) - the token that references the verified Carbon Removal Unit credit recorded in a registry, that is issued by the registry to the project owner
 
