@@ -31,7 +31,7 @@ The ESG Scorecard contract contains these initial properties and functions:
 - Offsets are spent and applied towards a reporting period, which can be used to calculate effective emissions
 - When token is offset towards an ESG Reporting period, the offset request should pass in the Id of the scorecard entry it offsets.
 
-![ESGScorecard](../images/ESG-Scorecard.png)
+![ESGScorecard](../images/ESG-Scorecard-Version2.png)
 
 ## Demand Signals
 
