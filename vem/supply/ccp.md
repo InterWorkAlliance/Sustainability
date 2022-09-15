@@ -33,25 +33,39 @@ attachment of this, or other market best practice property-sets, to different te
 
 • Asset Id: A string that can contain the issuing registry’s master id or serial number that resides on
 their registry system. Could be empty or the same as the token’s id if not needed.
+
 • Issuance Date: The date the token was issued.
+
 • Vintage: Refers to the year that the emissions reduction or removal took place or will take place.
+
 • Generation Type: Generated, Ex-post or Ex-ante, where Generated indicates near real-time issuance
 typically reserved for high-precision activities that can be verified and issued in shorter time frames;
 Ex-post is based on verified evidence and factored based on historical results; Ex-ante are forward
 estimates of reduction or removals.
+
 • Quality Standard: The quality standard used to determine and issue an ecological benefit token.
 These can be a voluntary or compliance/regulatory standard.
+
 • Mitigation Activity: The mitigation activity that is used to generate the ecological benefit token, a
 combination of:
-o Category: Reduction or Removal
-o Method: Biological, Technological, or Both
+  
+  o Category: Reduction or Removal
+  
+  o Method: Biological, Technological, or Both
+
 • Durability: This is the recommendation that replaces permanence for CCPs as it includes the risk profile
 and not simply true or false. [see Durability]
+
 • Replacement: This is set if this token replaces a revoked or adjusted token, i.e., a reversal event that
 requires a credit be replaced with one from a reserve pool.
+
 • Paris Agreement Compliance: This is set if using Paris Agreement specific attributes:
-o Corresponding Adjustment: None, Paris Agreement Compliance, or Pending
-o Letter of Approval: A verified link to the jurisdiction’s approval for CA.
+
+  o Corresponding Adjustment: None, Paris Agreement Compliance, or Pending
+  
+  o Letter of Approval: A verified link to the jurisdiction’s approval for CA.
+
 • Quantified SDG Impacts: The Co-benefits or SDGs with quantified impacts.
+
 • Adaptation of Co-benefits: The adaptation of co-benefits consistent with the host country’s priorities,
 consistent with the provisions under Article 7.1 of the Paris Agreement. 
