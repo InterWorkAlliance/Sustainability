@@ -1,14 +1,59 @@
-# Lifecycle - Supply of Verified Ecological Credits
+# Lifecycle for Verified Credits
+The generation and issuance of registered ecological assets resulting from ecological projects and
+programs is very similar to other physically-settled assets, they are composed or manufactured via
+a dedicated supply chain. Whereas physical finished goods are manufactured using parts or components
+from upstream suppliers, e.g., nuts & bolts, etc.; an ecological asset is issued or created upon approved
+verification from upstream participants. The type and extent of substantiating evidence required to verify
+an ecological claim, i.e. carbon removal, depends on the activity being performed to remove the
+carbon and the methodology (e.g. the applicable “Quality Standard”) employed to measure it. Such
+substantiating evidence is historically packaged by the project proponent and delivered to a VVB for
+verification. Upon VVB validation and verification of the substantiation, the evidence is next delivered
+downstream to the Standards Body for approval and Issuing Registry for issuance or minting of the
+finished ecological asset.
 
-The creation of carbon credits, a type of ecological benefit token, is the process of creating verified supply. The verification process should result in the creation of a high quality digital asset, a credit token, whose value can easily be determined and also quickly be compared with other tokens of the same type. However, all of the data needed to verify the integrity and value of the token should not all reside within the token itself, but be available in other data constructs involved in the verification process.
+In legacy voluntary markets, upon formal issuance and registration of the verified ecological claim,
+a nonfinancial intangible asset is ready for sale or retirement. How this process, often called origination,
+is carried out is vital to the creation and credibility of high-quality ecological products. Given their
+intangible nature, there is a correlation in asset value with the credibility of the “Quality Standard”, the
+project activities, and the verification process. Buyer trust and confidence in each lead to greater return
+on investment for those doing the work to benefit our environment.
+
+In the context of tokenization, the taskforce believes in the need for standard data representations and
+clear roles and responsibilities of the participants in the supply chain for these intangible assets to:
+
+- Establish a standard token or digital asset representation for claims and credits, used by the
+ecological project (or EP), VVB, and issuing registry.
+- Collaborate with other initiatives to align terminology and recommendations with token and contract
+- definitions produced using the IWA tools and frameworks.
+- Provide specifications that represent the shared set of data (schema or common data model)
+required by market participants allowing for credit comparison and rapid quality determination to
+increase confidence in the market.
+- Record and link ecological projects and tokens to the “Quality Standard” (i.e. technique and
+accounting methodology) to enable quality grading of credits based on aspects like geography,
+sequestration type, scientific measurement, etc.
+- Prevent the double crediting or spending of credits by removal projects or emissions reporters. 
 
 ## Roles
 
-The process or workflow for creating verified supply involves 3 roles:
+The process or workflow for creating verified supply involves at least 4 recommended roles:
 
-- A project owner or developer - this is the entity (person or company) that owns the project whose activities will be the source of benefit claims in a process generically called measurement or monitoring, reporting and verification of [MRV](mrv.md) to create a credit.
-- A VVB - the entity who performs the actions needed to verify the benefit claims issued by a project. Claims and verification should be based on a scientific standard for measuring the results of the activity being conducted by the project.
-- A standard registry - the entity that establishes the scientific standard that the claims are based on and the rules for verifying them. A VVB is certified to verify claims against the established standard and once verified, the registry creates the verified carbon credit that represents the actual intangible value that becomes the property of the project owner that created the claim.
+- Project owner/supplier - the entity (person or company) that owns the project whose activities will
+be the source of benefit records and registers emission reduction project or program of activities
+with a standards body or its agent in accordance with all measurement or monitoring, reporting and
+verification (MRV) processes.
+- Standards body - the entity that establishes, governs and owns the Quality Standard for the
+applicable EP should license the ability to tokenize an issued carbon credit to the project owner/
+supplier or the VVB.
+- VVB (verifier) - Project validation and verification should be based on the applicable Quality Standard
+for measuring the results of the activity being conducted by the project.
+- Qualifying issuing registry - the issuing registry affiliated or authorized by the standards body,
+shall generate and issue the verified number of carbon credits and/or any native tokens after VVB
+approval of the EP. The issued unit represents the actual intangible value that becomes the property
+of the project owner that registered the EP.
+
+The project owner shall then be able to (if applicable) (1) redeem a token issued prior to VVB approvals,
+(2) issue a reference token tied to the underlying asset, or (3) otherwise take ownership of any native
+token or direct representation of the underlying carbon units issued by the registry. 
 
 ![Supply](../images/vem-wf.png)
 
