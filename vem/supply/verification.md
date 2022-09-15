@@ -8,11 +8,11 @@ A Validation and Verification Contract is a multiparty contract between an Ecolo
 
 There are a few key points between the parties involved in the verification process:
 
-    - Each Ecological Project (EP) can have multiple Modular Benefit Projects (MBP), where each MBP creates claims based on a selected standard. Only one MBP can create claims of a specific type per EP. For example: an Ecological Project can have a MBP for Carbon Reductions and another for Carbon Removals.
-    - The Verification Contract is established at the MBP level as it is the source of claims to be verified.
-    - There can be different VVBs for MBPs in a given EP.
-    - EPs can switch VVBs between claims from its MBP.
-    - MBP Claims are based on the selected standard from a registry, thus the registry is an observer or non-active party in the verification process. *There are standards where the verification and registry roles are combined where this would be collapsed into a single role.*
+- Each Ecological Project (EP) can have multiple Modular Benefit Projects (MBP), where each MBP creates claims based on a selected standard. Only one MBP can create claims of a specific type per EP. For example: an Ecological Project can have a MBP for Carbon Reductions and another for Carbon Removals.
+- The Verification Contract is established at the MBP level as it is the source of claims to be verified.
+- There can be different VVBs for MBPs in a given EP.
+- EPs can switch VVBs between claims from its MBP.
+- MBP Claims are based on the selected standard from a registry, thus the registry is an observer or non-active party in the verification process. *There are standards where the verification and registry roles are combined where this would be collapsed into a single role.*
 
 ## Properties
 
