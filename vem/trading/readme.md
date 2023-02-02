@@ -4,14 +4,15 @@ This section covers contracts that span across emissions and credits like a Deli
 
 ## Standard Reference Contracts
 
-Due to the nature of the underlying “commodity/asset,” these contracts will have to be cash-settled as physical delivery is not possible.
-These contracts can be fungible or non-fungible, but the distinction may impact the legal analysis if the contract is a security, commodity, or hybrid.
+Due to the wide range of the underlying tokens these contracts have to be support both
+deliverable and cash-settled trades.
+The underlyings can be fungible or non-fungible, but the distinction may impact the legal analysis if the contract is
+a security, commodity, or hybrid.
 
-TBD Defined:
--	Spot – typically, spot markets are considered to settle in T+2. However, gas spot markets may have hourly delivery (however hourly settlement might not be possible.
--	Forward – OTC contracts between two parties agreeing on terms of a contract for future delivery or settlement (typically within 24 months).
+The three simplest classes of contracts are:
+-	Spot – standard "immediate settlement" for a market. Often T+2 but market conventions vary from minutes to T+3 or further.
+-	Forward – contracts between two parties for delivery/settlement at a date (or time) other than Spot.
 -	Futures – derivative financial instruments that derive their value from the underlying asset. Typically exchange boilerplate listed contracts traded for up to 24 months (most futures exchanges are in North America, UK, Asia)
-
 
  
 ## Buyer Preference for Offsets
